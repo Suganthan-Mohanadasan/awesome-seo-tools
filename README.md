@@ -230,6 +230,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [MozBar](https://moz.com/products/pro/seo-toolbar) - Shows Domain Authority, Page Authority, and link metrics for any page you visit.
 - [Ahrefs SEO Toolbar](https://ahrefs.com/seo-toolbar) - Free extension with SEO metrics, on page data, broken links, and redirect chain info.
 - [Wappalyzer](https://www.wappalyzer.com) - Identifies the CMS, frameworks, analytics, and marketing tools behind any website.
+- [Sprout SEO](https://www.sproutseo.io/) - Free extension for on-page analysis, technical SEO checks, site crawling, Core Web Vitals, and AI search insights that extract query fan-outs from ChatGPT and Gemini plus Google AI Overview citations. SERP integration with Google Trends, location changer, keyword ideas (based on Google Ads data), PAA scraper, and Core Web Vitals correlation. Works across Chrome, Firefox, and Edge.
 
 ## Log File Analysis
 
