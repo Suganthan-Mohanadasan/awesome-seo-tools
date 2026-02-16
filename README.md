@@ -103,6 +103,8 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Tag Parrot](https://tagparrot.com) - Submits your pages to the Google Indexing API automatically for faster crawling and discovery. Handy for large sites or content that needs rapid indexation.
 - [URL Monitor](https://urlmonitor.com) - Tracks whether your important pages are indexed and sends alerts if anything gets deindexed.
 - [RalfyIndex](https://ralfyindex.com) - Bulk indexing service. Submits URLs for fast crawling without needing Search Console access. Credit based pricing, no subscription. Averages 89% index rates within 24 hours.
+- [Indexing Insight](https://indexinginsight.com/) - Enterprise index monitoring that tracks up to 1 million pages daily. Shows exactly why pages aren't indexed, with segmentation, filtering, and automated alerts. Breaks past GSC's data limits for large sites. Endorsed by Dan Sharp (Screaming Frog) and used by The Telegraph and Sage.
+
 
 ## Rank Tracking
 
