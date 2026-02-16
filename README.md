@@ -149,6 +149,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## LLM Visibility Tracking
 
+- [Decipher](https://deciphercms.com) - Analyzes your website when you sign up and creates an easy-to-understand topical authority map, with content automatically internally linked and ready to generate at the click of a button.
 - [Otterly AI](https://otterly.ai) - Tracks brand visibility across Google AI Overviews, ChatGPT, Perplexity, Gemini, and Copilot. Daily monitoring, brand visibility index, share of voice, and deep GEO audits. 20,000+ marketing professionals use it.
 - [Profound](https://profound.co) - Enterprise GEO platform with $35M backing from Sequoia Capital. Tracks brand presence across 10+ AI platforms with citation analysis and dedicated AI strategists. SOC 2 and HIPAA compliant.
 - [Peec AI](https://peec.ai) - Multi language and geographic intelligence for AI visibility. Tracks brand mentions, sentiment, and citation sources across AI search engines.
