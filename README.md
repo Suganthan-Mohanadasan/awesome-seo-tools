@@ -65,6 +65,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## Keyword Clustering and Topical Authority
 
+- [Decipher](https://deciphercms.com) - Analyzes your website upon sign and creates a easy to under topical authority map with content automatically internally linked and ready to generate at the click of a button.
 - [Keyword Insights](https://www.keywordinsights.ai) - Groups keywords by SERP similarity and search intent using AI. Generates topical authority maps and content briefs, helping you figure out whether keywords belong on the same page or need separate pages.
 - [Cluster AI](https://clusterai.com) - Analyses SERP overlap to group keywords logically. Simple interface focused purely on clustering.
 - [KeyClusters](https://keyclusters.com) - Groups keywords by analysing the top ranking URLs. Good at identifying hub pages and content opportunities.
