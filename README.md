@@ -202,6 +202,10 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Google's official tool for validating structured data and checking rich results eligibility.
 - [Schema Markup Generator (Merkle)](https://technicalseo.com/tools/schema-markup-generator/) - Free JSON LD generator supporting FAQ, How To, Product, Organisation, and more.
 - [InLinks Schema Generator](https://inlinks.net) - Automated schema generation based on entity recognition and NLP analysis of your content.
+- [Organization Schema for Ecommerce](https://bethwoodcock.neocities.org/tools/organization-schema-for-ecommerce) - E-commerce specific Organization schema including VAT, Tax and merchant return policies.
+- [BlogPosting Schema Generator](https://bethwoodcock.neocities.org/tools/blogposting-schema-generator) - Quick generator for blog posts linking back to author pages.
+- [Person Schema Generator for Author Pages](https://bethwoodcock.neocities.org/tools/person-schema-generator) - Specifies what is needed for Person schema on Author pages.
+- [Case Study Schema Suite](https://bethwoodcock.neocities.org/tools/case-study-schema-generator) - Connects portfolio pages to individual case studies.
 - [Schemantra](https://schemantra.com) - Validates and monitors your structured data, alerting you when issues crop up.
 
 ## Page Speed and Core Web Vitals
