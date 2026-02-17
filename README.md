@@ -119,16 +119,30 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## Backlink Analysis and Link Building
 
+### Backlink Analysis Tools
+
 - [Ahrefs Site Explorer](https://ahrefs.com/site-explorer) - The biggest backlink database going. Breaks down any domain's backlink profile, referring domains, anchor text distribution, and link velocity.
 - [Majestic](https://majestic.com) - Trust Flow and Citation Flow are their proprietary metrics. One of the largest link databases with historical data going back years.
 - [Moz Link Explorer](https://moz.com/link-explorer) - Domain Authority and Page Authority scores, linking opportunities, and spam score for link quality assessment.
 - [OpenLinkProfiler](http://openlinkprofiler.org) - Free backlink checker with link freshness, industry categorisation, and anchor text analysis.
+
+### Outreach and Prospecting Tools
+
 - [BuzzStream](https://www.buzzstream.com) - Outreach and link building CRM for managing relationships, tracking email campaigns, and organising prospecting workflows.
 - [Pitchbox](https://pitchbox.com) - Outreach automation for link building and digital PR. Prospecting, personalised outreach, and relationship management in one platform.
 - [Hunter.io](https://hunter.io) - Email finder for locating contact details for outreach. Plugs into most CRM and outreach tools.
 - [HARO (Help a Reporter Out)](https://www.helpareporter.com) - Connects journalists with expert sources. Answer relevant queries and you can land high authority backlinks from news sites.
 - [Ranking Raccoon](https://rankingraccoon.com) - Verified link exchange community. Manually vetted websites across 54 industries with real time backlink verification and ethical guidelines.
 - [LinkDR](https://linkdr.com) - AI powered link building that automates prospecting, outreach, and relationship management. Uses AI to find relevant opportunities and personalise outreach.
+
+### Link Building Services and Marketplaces
+
+> **⚠️ Disclaimer:** The services listed below are third party link building marketplaces and agencies. Their inclusion here is for informational purposes only and does not constitute an endorsement of their practices or the quality of links they provide. Buying or selling links to manipulate search rankings is against Google's Webmaster Guidelines and may result in penalties. Always do your own due diligence before using any link building service.
+
+- [Loganix](https://loganix.com) - White label link building marketplace with 5,000+ vetted publisher sites. Guest posts, niche edits, HARO style media placements, and managed campaigns. Popular with agencies outsourcing link building at scale.
+- [PressWhizz](https://presswhizz.com) - Link building marketplace with competitor link intel, keyword based site search, and tiered boosting for Tier 2 signals. Filter by DR, traffic, and niche. Built by Charles Floate, one of the fastest growing marketplaces in the space.
+- [Authority Builders](https://authority.builders) - Founded by Matt Diggity. Guest posts, niche edits, and HARO placements with a managed service (ABC Plus) that handles strategy, anchor text mapping, and link gap analysis. Application required.
+- [WhitePress](https://www.whitepress.com) - International content marketing and link building marketplace with 130,000+ publisher sites across 34 languages. Strong in European markets. Built in backlink manager, traffic tracker, and up to 36 month link guarantees on premium placements.
 
 ## Internal Linking
 
