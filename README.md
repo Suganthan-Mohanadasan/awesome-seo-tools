@@ -105,6 +105,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [URL Monitor](https://urlmonitor.com) - Tracks whether your important pages are indexed and sends alerts if anything gets deindexed.
 - [RalfyIndex](https://ralfyindex.com) - Bulk indexing service. Submits URLs for fast crawling without needing Search Console access. Credit based pricing, no subscription. Averages 89% index rates within 24 hours.
 - [Indexing Insight](https://indexinginsight.com/) - Enterprise index monitoring that tracks up to 1 million pages daily. Shows exactly why pages aren't indexed, with segmentation, filtering, and automated alerts. Breaks past GSC's data limits for large sites. Endorsed by Dan Sharp (Screaming Frog) and used by The Telegraph and Sage.
+- [SEM Samurai](https://www.semsamurai.com/) - Bulk 301-redirect mapping for website migrations. SEM Samurai allows SEOs and developers to accurately match thousands of URLs in minutes to preserve link equity, reduce manual errors and save hours of manual work.
 
 
 ## Rank Tracking
