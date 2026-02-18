@@ -72,6 +72,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Surfer Topical Map](https://surferseo.com) - Analyses your niche and suggests topic clusters to build topical authority, with internal linking recommendations baked in.
 - [LowFruits](https://lowfruits.io) - Specialises in finding low competition keywords. Analyses SERPs in bulk to find weak spots and groups keywords using SERP overlap and semantic clustering. Now part of AIOSEO.
 - [Keyword Cupid](https://keywordcupid.com) - Visualises keyword relationships in a dendrogram by analysing real Google results. Helps you see which keywords share ranking intent and can be targeted together.
+- [CanniWizard](https://canniwizard.com/) - Automatically find cannibalization problems where multiple pages compete for the same keywords by linking your Google Search Console property.
 
 ## Content Optimisation and Writing
 
