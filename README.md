@@ -243,6 +243,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## SEO Browser Extensions
 
+- [SiteAnalyzer SEO Tools](https://site-analyzer.pro/soft/seo-extension/) - Free Chrome and Firefox browser extension packed with features for analyzing SEO metrics, performing technical audits (links, images, meta tags, content, indexing, etc.).
 - [Keyword Surfer](https://surferseo.com/keyword-surfer-extension/) - Free Chrome extension showing search volume, CPC, and related keywords directly in Google results.
 - [Detailed SEO Extension](https://detailed.com/extension/) - Free Chrome extension for instant access to on page SEO data: title tags, meta descriptions, header hierarchy, canonicals, and indexation status.
 - [SEOQuake](https://www.seoquake.com) - Free extension with an SEO toolbar, on page audit, SERP overlay, and domain comparison.
