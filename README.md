@@ -96,7 +96,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - The industry standard desktop crawler. Finds broken links, analyses meta data, generates sitemaps, and visualises site architecture. Free for up to 500 URLs.
 - [Sitebulb](https://sitebulb.com) - Desktop crawler with visual reporting and prioritised hints. The crawl maps and audit recommendations are genuinely useful.
-- [SiteAnalyzer](https://site-analyzer.pro/) - Powerful website desktop crawler designed for fast and efficient technical audits and SEO optimization.
+- [SiteAnalyzer](https://site-analyzer.pro/) - Powerful desktop crawler designed for fast and efficient technical website audits and SEO optimization.
 - [Lumar (formerly DeepCrawl)](https://www.lumar.io) - Enterprise cloud based crawler for large sites. JavaScript rendering support and integrations with major analytics platforms.
 - [ContentKing (now part of Conductor)](https://www.contentkingapp.com) - Real time monitoring that continuously audits your site and alerts you the moment something changes or breaks.
 - [Oncrawl](https://www.oncrawl.com) - Combines crawl data with log file analysis and Search Console integration for advanced technical audits.
