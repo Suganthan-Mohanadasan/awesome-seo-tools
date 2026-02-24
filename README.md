@@ -88,7 +88,6 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SearchAttention](https://searchattention.com) - Focused on optimising content for AI search engines specifically, covering Google AI Overviews, Perplexity, and ChatGPT.
 - [KoalaWriter](https://koala.sh/writer) - AI SEO writing tool that generates long form articles in one click. Pulls real time SERP data, suggests internal links, and publishes directly to WordPress.
 - [Penfriend AI](https://penfriend.ai) - The Echo feature learns your writing style and tone, then generates SEO optimised drafts that match your brand voice. Built in keyword targeting and content brief integration.
-- [Outrank](https://www.outrank.so) - Combines automated article generation with keyword research and SERP analysis. Produces publish ready content with optimisation scoring built in.
 - [Leaps](https://leapshq.com) - "Anti-AI slop" long form writing tool that doesn't write a word until it first understands your POV for each part of your content and has done research + fact-checking to back your points.
 
 
