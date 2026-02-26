@@ -239,6 +239,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Open source, built into Chrome DevTools. Audits performance, accessibility, SEO, and best practices.
 - [CrUX Dashboard](https://developer.chrome.com/docs/crux/) - Real world performance data from Chrome users for millions of websites. Available via BigQuery and the CrUX API.
 - [DebugBear](https://www.debugbear.com) - Monitors Core Web Vitals over time with performance budgets and alerting.
+- [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner. Runs Lighthouse audits for performance, SEO, accessibility, and best practices with AI-generated action plans and a CORS-enabled REST API.
 
 ## SEO Browser Extensions
 
