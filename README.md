@@ -302,6 +302,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEOTesting](https://seotesting.com) - SEO experimentation platform built on top of GSC data. Run time based tests and split tests to measure the actual impact of your changes on clicks and rankings. Content decay reports, keyword cannibalisation detection, CTR optimisation reports, content groups, and forecasting. Used by Shopify, Canva, and Intuit. Endorsed by Aleyda Solis.
 - [SEO Stack](https://www.seo-stack.io) - AI powered GSC replacement that warehouses up to 10 years of Search Console data with no row limits. Conversational AI for querying your data, query counting, click forecasting, NLP content auditing, and custom filters. 4,000+ SEO professionals use it.
 - [SEO Gets](https://seogets.com) - Surfaces 50k rows (vs GSC's 1k limit) with a unified dashboard across all properties. One click topic clustering, content groups, content decay heatmaps, cannibalisation reports, striking distance keywords, and SEO testing. Endorsed by Aleyda Solis, Kevin Indig, and Backlinko.
+- [GSC Wizard](https://www.gscwizard.com) - GSC Wizard is an advanced SEO tool that uses Google OAuth to securely access your Search Console data, offering keyword clustering, traffic forecasting, and A/B testing to boost organic search.
 
 ## Documentation and Learning
 
