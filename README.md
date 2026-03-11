@@ -168,7 +168,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## LLM Visibility Tracking
 
-- [AI Brand Tracking](https://aibrandtracking.com) - Tracks brand visibility across ChatGPT, Gemini, Perplexity, and Google AI overview and mode. Monitors the exact prompts driving AI recommendations, discovers which websites AI engines cite for your industry. Auto-suggests competitors and queries with multi-market and multi-language support.
+- [AI Brand Tracking](https://aibrandtracking.com) - Tracks brand visibility across ChatGPT, Gemini, Perplexity, and Google AI Overviews and AI Mode. Monitors the exact prompts driving AI recommendations, and discovers which websites AI engines cite for your industry. Auto-suggests competitors and queries with multi-market and multi-language support.
 - [Decipher](https://deciphercms.com) - Analyzes your website when you sign up and creates an easy-to-understand topical authority map, with content automatically internally linked and ready to generate at the click of a button.
 - [Otterly AI](https://otterly.ai) - Tracks brand visibility across Google AI Overviews, ChatGPT, Perplexity, Gemini, and Copilot. Daily monitoring, brand visibility index, share of voice, and deep GEO audits. 20,000+ marketing professionals use it.
 - [Profound](https://profound.co) - Enterprise GEO platform with $35M backing from Sequoia Capital. Tracks brand presence across 10+ AI platforms with citation analysis and dedicated AI strategists. SOC 2 and HIPAA compliant.
