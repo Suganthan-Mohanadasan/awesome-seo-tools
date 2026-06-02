@@ -129,6 +129,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Majestic](https://majestic.com) - Trust Flow and Citation Flow are their proprietary metrics. One of the largest link databases with historical data going back years.
 - [Moz Link Explorer](https://moz.com/link-explorer) - Domain Authority and Page Authority scores, linking opportunities, and spam score for link quality assessment.
 - [OpenLinkProfiler](http://openlinkprofiler.org) - Free backlink checker with link freshness, industry categorisation, and anchor text analysis.
+- [Crawlgraph](https://crawlgraph.com) - Free backlink checker and competitor backlink gap analysis built on the Common Crawl webgraph. Finds the domains that link to your competitors but not to you, ranked by overlap and authority. The gap report is normally a paid Ahrefs or Semrush feature; free here, with a $99 one-time lifetime plan for full exports and an API.
 
 ### Outreach and Prospecting Tools
 
