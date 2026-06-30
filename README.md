@@ -235,6 +235,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Person Schema Generator for Author Pages](https://bethwoodcock.neocities.org/tools/person-schema-generator) - Specifies what is needed for Person schema on Author pages.
 - [Case Study Schema Suite](https://bethwoodcock.neocities.org/tools/case-study-schema-generator) - Connects portfolio pages to individual case studies.
 - [Schemantra](https://schemantra.com) - Validates and monitors your structured data, alerting you when issues crop up.
+- [Local Business Schema Generator](https://landing-five-dusky-44.vercel.app/schema-generator) - Free JSON-LD schema generator for local businesses. Supports LocalBusiness, Restaurant, MedicalBusiness and other types. Instant preview and copy-paste code.
 
 ## Page Speed and Core Web Vitals
 
@@ -244,6 +245,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Open source, built into Chrome DevTools. Audits performance, accessibility, SEO, and best practices.
 - [CrUX Dashboard](https://developer.chrome.com/docs/crux/) - Real world performance data from Chrome users for millions of websites. Available via BigQuery and the CrUX API.
 - [DebugBear](https://www.debugbear.com) - Monitors Core Web Vitals over time with performance budgets and alerting.
+- [Website Speed Comparator](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Compare your website's PageSpeed score vs. a competitor's side-by-side using real Google PageSpeed Insights data. Free, no signup required.
 
 ## SEO Browser Extensions
 
