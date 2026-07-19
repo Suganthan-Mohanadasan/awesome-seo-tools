@@ -110,6 +110,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEM Samurai](https://www.semsamurai.com/) - Bulk 301-redirect mapping for website migrations. SEM Samurai allows SEOs and developers to accurately match thousands of URLs in minutes to preserve link equity, reduce manual errors and save hours of manual work.
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source dynamic rendering engine that makes JavaScript content visible to Google, Bing, and AI bots like ChatGPT and Perplexity. Fixes indexing problems on React, Vue, and Angular sites without requiring code changes or SSR migration.
 - [JSBug](https://jsbug.org/) - Free tool for comparing how a webpage looks with and without JavaScript rendering. Shows what search engines and AI bots actually see on JavaScript-heavy sites.
+- [squirrelscan](https://squirrelscan.com) - Website QA tool built for developers and coding agents. Crawls your site and runs 260+ rules across SEO, performance, security, accessibility, and agent experience, then hands the agent exact fixes mapped to source. Runs from the CLI, inside coding agents like Claude Code, in the cloud, or over MCP, with a free local tier.
 
 
 ## Rank Tracking
