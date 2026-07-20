@@ -48,6 +48,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Dragon Metrics](https://www.dragonmetrics.com) - Built from the ground up for global and multilingual SEO. Tracks 11 search engines including Baidu and Naver, with deep China and Asia market support. Rank tracking, backlink analysis, site audits, keyword research, and white label reporting. Recently acquired by Semify.
 - [Marketing Miner](https://www.marketingminer.com/en) - Bulk SEO & AI tool built for SEO specialists who work with large datasets. Analyse up to 100,000 keywords or URLs in a single report using real SERP scraping. Over 40 SEO tools covering AI visibility tracking (real scraping, not APIs), keyword research, rank tracking, site audits, competitor analysis, brand monitoring, and link building. Clickstream based search volume data and a REST API for custom integrations. Strong in Central European markets, with pricing starting at $29 per month.
 - [SEOintent](https://seointent.com) - AI-first SEO platform that auto-clusters keywords, generates SEO articles with Claude Sonnet, tracks AI citations across ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews, and publishes directly to WordPress, Shopify, Webflow, and Ghost. White-label dashboards on the Scale plan for agencies. Starts at $99/month with a 14-day free trial.
+- [Screpy](https://screpy.com/) - SEO platform for technical audits, keyword research, rank tracking, Core Web Vitals, uptime monitoring, and reports.
 
 
 ## Keyword Research and Analysis
