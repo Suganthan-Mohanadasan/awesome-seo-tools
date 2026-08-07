@@ -112,6 +112,8 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [JSBug](https://jsbug.org/) - Free tool for comparing how a webpage looks with and without JavaScript rendering. Shows what search engines and AI bots actually see on JavaScript-heavy sites.
 
 
+- [Vaytric Link Health](https://vaytric.com/link-health/) - Free multi-URL broken link checker; optional one-time $5 full-site crawl CSV for 404s, 5xx, redirects, and missing titles.
+
 ## Rank Tracking
 
 - [AccuRanker](https://www.accuranker.com) - One of the fastest rank trackers out there. On demand ranking updates, SERP feature tracking, and share of voice metrics.
