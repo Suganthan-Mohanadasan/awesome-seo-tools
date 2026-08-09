@@ -184,9 +184,9 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Waikay](https://waikay.io) - Stands for "What AI Knows About You", built by Dixon Jones (co founder of InLinks). Analyses how ChatGPT, Gemini, Claude, and Perplexity perceive your brand. Detects hallucinations and knowledge gaps, then generates GEO plans. Entity based analysis with fact verification across multiple LLMs.
 - [RadarKit](https://radarkit.ai) - Monitors brand visibility across ChatGPT, Gemini, Perplexity, Copilot, and Google AI Overviews using real browser prompting rather than APIs. Has an AI SEO Chrome extension for auditing pages through the eyes of AI crawlers, plus llms.txt generation.
 
-
 - [FixAEO](https://fixaeo.com/) - Tracks brand mentions, citations, share of voice, competitor visibility, and crawler access across major AI search engines, with prioritised AEO recommendations and a free no-signup scan.
-  ## AI SEO Tools
+
+## AI SEO Tools
 
 - [AI Rank](https://airank.dejan.ai/) - AI visibility tracking framework by DEJAN that monitors how brands, products, and entities rank across AI chat sessions. Pairs with AI Flux for volatility tracking.
 - [AI Flux](https://flux.dejan.ai/) - Dashboard tracking daily volatility in AI rankings across brands, services, products, and people. Think Algoroo but for LLM results.
