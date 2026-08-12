@@ -147,6 +147,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [PressWhizz](https://presswhizz.com) - Link building marketplace with competitor link intel, keyword based site search, and tiered boosting for Tier 2 signals. Filter by DR, traffic, and niche. Built by Charles Floate, one of the fastest growing marketplaces in the space.
 - [Authority Builders](https://authority.builders) - Founded by Matt Diggity. Guest posts, niche edits, and HARO placements with a managed service (ABC Plus) that handles strategy, anchor text mapping, and link gap analysis. Application required.
 - [WhitePress](https://www.whitepress.com) - International content marketing and link building marketplace with 130,000+ publisher sites across 34 languages. Strong in European markets. Built in backlink manager, traffic tracker, and up to 36 month link guarantees on premium placements.
+- [Mentioned](https://mentioned.to) - Done-for-you Reddit presence rather than a link marketplace. Finds the Reddit threads already ranking on Google for your keywords and where competitors get recommended, writes and publishes native posts and comments from managed accounts, and reports share of voice against competitors.
 
 ## Internal Linking
 
