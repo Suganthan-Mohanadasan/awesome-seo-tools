@@ -77,6 +77,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## Content Optimisation and Writing
 
+- [SEO Meta Tags Generator (Hahaknight)](https://hahaknight.github.io/seo-meta-generator/) - Free browser-based meta tag generator with live Google SERP and Open Graph card previews. No signup, runs entirely client-side. [Source](https://github.com/Hahaknight/seo-meta-generator)
 - [Surfer SEO](https://surferseo.com) - Analyses top ranking pages and scores your content in real time as you write. Looks at keyword density, structure, NLP terms, and content length. Also does topical mapping and SERP analysis.
 - [Clearscope](https://clearscope.io) - Premium content optimisation used by enterprise teams. Analyses top performing content and gives keyword and readability recommendations. Plugs into Google Docs and WordPress.
 - [Frase](https://frase.io) - AI powered platform for research, writing, and optimisation. SERP analysis, content briefs, and an AI writing assistant. Recently added GEO features for AI search engines.
@@ -356,3 +357,4 @@ Contributions are welcome! Please follow these guidelines:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related rights to this work.
+
