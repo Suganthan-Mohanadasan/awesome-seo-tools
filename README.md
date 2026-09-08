@@ -292,6 +292,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [All in One SEO (AIOSEO)](https://aioseo.com) - On page analysis, schema, sitemaps, social media integration, and a Link Assistant feature for internal linking.
 - [SEOPress](https://www.seopress.org) - Lightweight with no ads. Handles meta tags, sitemaps, schemas, redirects, and breadcrumbs at a good price.
 - [The SEO Framework](https://theseoframework.com) - Minimalist and performance focused. Does the essential SEO jobs without bloat or upsells.
+- [LovedByAI](https://www.lovedby.ai) - AI search optimization for WordPress. Adds schema and FAQ markup, generates an llms.txt file, and tracks AI referral traffic from ChatGPT, Perplexity, Claude, and Gemini.
 
 ## Free Google Tools
 
