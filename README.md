@@ -110,6 +110,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEM Samurai](https://www.semsamurai.com/) - Bulk 301-redirect mapping for website migrations. SEM Samurai allows SEOs and developers to accurately match thousands of URLs in minutes to preserve link equity, reduce manual errors and save hours of manual work.
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source dynamic rendering engine that makes JavaScript content visible to Google, Bing, and AI bots like ChatGPT and Perplexity. Fixes indexing problems on React, Vue, and Angular sites without requiring code changes or SSR migration.
 - [JSBug](https://jsbug.org/) - Free tool for comparing how a webpage looks with and without JavaScript rendering. Shows what search engines and AI bots actually see on JavaScript-heavy sites.
+- [Superflow robots.txt AI Checker](https://usesuperflow.ai/tools/robots-txt-ai-checker?utm_source=awesome-seo-tools&utm_medium=directory&utm_campaign=free-tools) - Free check of AI crawler rules in robots.txt plus CDN/WAF probe. No login.
 
 
 ## Rank Tracking
@@ -180,6 +181,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [AthenaHQ](https://athenahq.ai) - Founded by former Google Search and DeepMind engineers. Focused on optimising content for AI powered search.
 - [Gauge](https://www.withgauge.com) - Monitors brand mentions, citations, and sentiment across all major AI platforms.
 - [Am I On AI](https://amionai.com) - Simple entry point for checking whether your brand shows up in AI search results. Low friction way to get started with GEO.
+- [Superflow AI Visibility Checker](https://usesuperflow.ai/tools/ai-visibility-checker?utm_source=awesome-seo-tools&utm_medium=directory&utm_campaign=free-tools) - Free GPTBot fetch, JS readability, and CDN compare. No login. Also available as an MCP tool.
 - [Query Fan Out](https://aicoverage.locomotive.agency) - By Locomotive Agency. Analyses how AI search engines reformulate queries and measures your brand's coverage across AI generated responses.
 - [Waikay](https://waikay.io) - Stands for "What AI Knows About You", built by Dixon Jones (co founder of InLinks). Analyses how ChatGPT, Gemini, Claude, and Perplexity perceive your brand. Detects hallucinations and knowledge gaps, then generates GEO plans. Entity based analysis with fact verification across multiple LLMs.
 - [RadarKit](https://radarkit.ai) - Monitors brand visibility across ChatGPT, Gemini, Perplexity, Copilot, and Google AI Overviews using real browser prompting rather than APIs. Has an AI SEO Chrome extension for auditing pages through the eyes of AI crawlers, plus llms.txt generation.
@@ -228,6 +230,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 - [Schema.org](https://schema.org) - The official vocabulary documentation for structured data. Reference for all available schema types.
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Google's official tool for validating structured data and checking rich results eligibility.
+- [Superflow JSON-LD Validator](https://usesuperflow.ai/tools/json-ld-validator?utm_source=awesome-seo-tools&utm_medium=directory&utm_campaign=free-tools) - Free JSON-LD validator with clear errors. No login. Also MCP/HTTP.
 - [Schema Markup Generator (Merkle)](https://technicalseo.com/tools/schema-markup-generator/) - Free JSON LD generator supporting FAQ, How To, Product, Organisation, and more.
 - [InLinks Schema Generator](https://inlinks.net) - Automated schema generation based on entity recognition and NLP analysis of your content.
 - [Organization Schema for Ecommerce](https://bethwoodcock.neocities.org/tools/organization-schema-for-ecommerce) - E-commerce specific Organization schema including VAT, Tax and merchant return policies.
