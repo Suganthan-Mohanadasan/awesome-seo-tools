@@ -231,6 +231,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Schema.org](https://schema.org) - The official vocabulary documentation for structured data. Reference for all available schema types.
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Google's official tool for validating structured data and checking rich results eligibility.
 - [Superflow JSON-LD Validator](https://usesuperflow.ai/tools/json-ld-validator?utm_source=awesome-seo-tools&utm_medium=directory&utm_campaign=free-tools) - Free JSON-LD validator with clear errors. No login. Also MCP/HTTP.
+- [Superflow JSON-LD Generator](https://usesuperflow.ai/tools/json-ld-generator?utm_source=awesome-seo-tools&utm_medium=directory&utm_campaign=free-tools) - Free JSON-LD schema generator. No login. Also MCP/HTTP.
 - [Schema Markup Generator (Merkle)](https://technicalseo.com/tools/schema-markup-generator/) - Free JSON LD generator supporting FAQ, How To, Product, Organisation, and more.
 - [InLinks Schema Generator](https://inlinks.net) - Automated schema generation based on entity recognition and NLP analysis of your content.
 - [Organization Schema for Ecommerce](https://bethwoodcock.neocities.org/tools/organization-schema-for-ecommerce) - E-commerce specific Organization schema including VAT, Tax and merchant return policies.
