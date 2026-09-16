@@ -138,6 +138,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [HARO (Help a Reporter Out)](https://www.helpareporter.com) - Connects journalists with expert sources. Answer relevant queries and you can land high authority backlinks from news sites.
 - [Ranking Raccoon](https://rankingraccoon.com) - Verified link exchange community. Manually vetted websites across 54 industries with real time backlink verification and ethical guidelines.
 - [LinkDR](https://linkdr.com) - AI powered link building that automates prospecting, outreach, and relationship management. Uses AI to find relevant opportunities and personalise outreach.
+- [StackScan](https://www.stackscan.com) - Reverse technology lookup across 399M+ websites. Find every site running a given CMS, plugin, analytics tag or platform, filter by country and industry, and export the result as a prospect list.
 
 ### Link Building Services and Marketplaces
 
