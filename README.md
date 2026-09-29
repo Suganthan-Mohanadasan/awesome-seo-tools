@@ -1,6 +1,14 @@
-![Awesome SEO Tools](heading.png?v=2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Awesome SEO Tools, a curated list of SEO tools that practitioners actually use" src="assets/banner-light.png">
+</picture>
 
 # Awesome SEO Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[![GitHub stars](https://img.shields.io/github/stars/Suganthan-Mohanadasan/awesome-seo-tools?style=flat-square&labelColor=24292f&logo=github&color=305686)](https://github.com/Suganthan-Mohanadasan/awesome-seo-tools)
+[![200+ tools](https://img.shields.io/badge/tools-200%2B-305686?style=flat-square&labelColor=24292f)](#contents)
+[![23 categories](https://img.shields.io/badge/categories-23-305686?style=flat-square&labelColor=24292f)](#contents)
+[![Contributors](https://img.shields.io/github/contributors/Suganthan-Mohanadasan/awesome-seo-tools?style=flat-square&labelColor=24292f&color=305686)](https://github.com/Suganthan-Mohanadasan/awesome-seo-tools/graphs/contributors)
 
 > A curated list of SEO tools that practitioners actually use. No fluff, no vibe coded apps. Only tools with proven track records, decent reviews, and real user bases.
 
@@ -272,7 +280,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [DataForSEO](https://dataforseo.com) - The SEO data API behind many third party tools. SERP results, keyword data, backlink analytics, and rank tracking. Useful for building custom solutions and dashboards.
 - [SearchAPI.io](https://www.searchapi.io) - Real time SERP scraping API for Google, Bing, YouTube, and other search engines. Structured data output for custom tool building and monitoring.
 
-- ## Reddit Marketing
+## Reddit Marketing
 
 - [Launch Club AI](https://launchclub.ai) - Reddit marketing agency and AI toolkit built by Ken Savage. Scans for high ranking Reddit threads with buyer intent, suggests where to join conversations authentically, and helps optimise for visibility in Google and AI search engines. Also offers managed product launches and a community of 2,700+ team members for outreach. Over 476 products launched.
 - [Redreach](https://redreach.ai) - AI powered Reddit lead generation and marketing tool. Monitors 100,000+ subreddits for high intent posts, tracks brand and competitor mentions with sentiment analysis, and generates contextual reply suggestions. Also includes a DM automation Chrome extension with anti detection features and a built in CRM for outreach tracking.
@@ -356,3 +364,28 @@ Contributions are welcome! Please follow these guidelines:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related rights to this work.
+
+---
+
+## Built by Suganthan Mohanadasan
+
+I write about organic search, AI, and the tools I build on [suganthan.com](https://suganthan.com/).
+
+### Tools I've built
+
+| Tool | What it does |
+|---|---|
+| [Google Search Console MCP](https://github.com/Suganthan-Mohanadasan/Suganthans-GSC-MCP) | Ask Claude questions about your Search Console data. 29 tools, and it runs on your machine |
+| [BigQuery MCP Server](https://github.com/Suganthan-Mohanadasan/Suganthans-BigQuery-MCP-Server) | The same kind of analysis on your Search Console bulk export, plus GA4 revenue per keyword |
+| [Free SEO tools](https://suganthan.com/free-seo-tools/) | Small browser tools for SEO, structured data and the agentic web, with no sign up |
+
+### Follow along
+
+[![suganthan.com](https://img.shields.io/badge/suganthan.com-305686?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyMCAxNC41IDE0LjUgMCAwIDAgMC0yMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8%2BPC9zdmc%2BCg%3D%3D)](https://suganthan.com/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-305686?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2BCg%3D%3D)](https://suganthan.com/newsletter/)
+[![Suganthan Mohanadasan on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K)](https://www.linkedin.com/in/suganthan-mohanadasan/)
+[![Follow @suganthan on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suganthan)
+[![Suganthan Mohanadasan on GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suganthan-Mohanadasan)
+[![Follow Suganthan on Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://profile.google.com/cp/Cg0vZy8xMXExX2pkY3Fi)
+
+If you find it useful, star it.
