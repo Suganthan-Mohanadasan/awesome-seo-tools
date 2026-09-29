@@ -9,6 +9,7 @@
 [![200+ tools](https://img.shields.io/badge/tools-200%2B-305686?style=flat-square&labelColor=24292f)](#contents)
 [![23 categories](https://img.shields.io/badge/categories-23-305686?style=flat-square&labelColor=24292f)](#contents)
 [![Contributors](https://img.shields.io/github/contributors/Suganthan-Mohanadasan/awesome-seo-tools?style=flat-square&labelColor=24292f&color=305686)](https://github.com/Suganthan-Mohanadasan/awesome-seo-tools/graphs/contributors)
+[![Licence: CC0](https://img.shields.io/badge/licence-CC0-305686?style=flat-square&labelColor=24292f)](LICENSE)
 
 > A curated list of SEO tools that practitioners actually use. No fluff, no vibe coded apps. Only tools with proven track records, decent reviews, and real user bases.
 
@@ -363,7 +364,7 @@ Contributions are welcome! Please follow these guidelines:
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors have waived all copyright and related rights to this work.
+To the extent possible under law, the authors have waived all copyright and related rights to this work. See [LICENSE](LICENSE).
 
 ---
 
