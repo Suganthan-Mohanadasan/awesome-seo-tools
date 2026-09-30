@@ -206,6 +206,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Bot Tester](https://bot.dejan.ai/) - Tests how accessible your URLs are to search engines, AI crawlers, and web bots. Quick way to check if AI crawlers can actually reach your content.
 - [Query Deserves Grounding (Google)](https://dejan.ai/tools/qdg/) - Predicts which queries will trigger grounding with Google search results in AI responses.
 - [Query Deserves Grounding (OpenAI)](https://grounding.dejan.ai/) - Same concept for OpenAI models. Determines which queries will trigger search grounding in ChatGPT.
+- [geolint](https://github.com/iliasabk/geolint) - Open-source linter for AI search readiness. Audits robots.txt across 51 AI crawler tokens, llms.txt, schema and citability (52 rules, score plus per-finding fixes). Ships SARIF output, a GitHub Action, and an MCP server listed in the official MCP registry.
 - [LinkBERT](https://linkbert.com/) - Link prediction model trained on high quality organic link data. Predicts natural link placement in plain text, useful for internal and external link planning.
 - [Penguin](https://penguin.dejan.ai/) - Link optimisation tool that uses AI to distinguish between link types and suggests optimal anchor text placement. Named after the algorithm it helps you avoid tripping.
 - [Chunk Norris](https://chunk.dejan.ai/) - Content chunking tool. Breaks your content into chunks the way AI systems would, so you can see how your pages get segmented for retrieval.
