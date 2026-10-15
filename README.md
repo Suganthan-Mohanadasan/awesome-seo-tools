@@ -135,6 +135,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 ### Backlink Analysis Tools
 
 - [Ahrefs Site Explorer](https://ahrefs.com/site-explorer) - The biggest backlink database going. Breaks down any domain's backlink profile, referring domains, anchor text distribution, and link velocity.
+- [Karma.Domains](https://karma.domains) - Expired, auction and backorder domain finder that layers Ahrefs, Majestic, Moz, Semrush and Similarweb metrics plus Wayback Machine history on each drop, useful for vetting aged domains before buying. Free plan with 5 credits, paid plans for full access.
 - [Majestic](https://majestic.com) - Trust Flow and Citation Flow are their proprietary metrics. One of the largest link databases with historical data going back years.
 - [Moz Link Explorer](https://moz.com/link-explorer) - Domain Authority and Page Authority scores, linking opportunities, and spam score for link quality assessment.
 - [OpenLinkProfiler](http://openlinkprofiler.org) - Free backlink checker with link freshness, industry categorisation, and anchor text analysis.
