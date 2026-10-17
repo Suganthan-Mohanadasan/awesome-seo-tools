@@ -147,6 +147,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [HARO (Help a Reporter Out)](https://www.helpareporter.com) - Connects journalists with expert sources. Answer relevant queries and you can land high authority backlinks from news sites.
 - [Ranking Raccoon](https://rankingraccoon.com) - Verified link exchange community. Manually vetted websites across 54 industries with real time backlink verification and ethical guidelines.
 - [LinkDR](https://linkdr.com) - AI powered link building that automates prospecting, outreach, and relationship management. Uses AI to find relevant opportunities and personalise outreach.
+- [BacklinkGenie](https://backlinkgenie.com) - AI outreach agent for link building. Finds "best X" lists and roundups where your product fits, verifies the author, writes one pitch per post and sends from a separate warmed mailbox so your main domain stays safe. Free prospect report, paid plans from $99/month.
 
 ### Link Building Services and Marketplaces
 
