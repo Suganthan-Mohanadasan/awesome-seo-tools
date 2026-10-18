@@ -192,6 +192,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Query Fan Out](https://aicoverage.locomotive.agency) - By Locomotive Agency. Analyses how AI search engines reformulate queries and measures your brand's coverage across AI generated responses.
 - [Waikay](https://waikay.io) - Stands for "What AI Knows About You", built by Dixon Jones (co founder of InLinks). Analyses how ChatGPT, Gemini, Claude, and Perplexity perceive your brand. Detects hallucinations and knowledge gaps, then generates GEO plans. Entity based analysis with fact verification across multiple LLMs.
 - [RadarKit](https://radarkit.ai) - Monitors brand visibility across ChatGPT, Gemini, Perplexity, Copilot, and Google AI Overviews using real browser prompting rather than APIs. Has an AI SEO Chrome extension for auditing pages through the eyes of AI crawlers, plus llms.txt generation.
+- [Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker) - Free, no-signup check of whether ChatGPT and Perplexity name or cite a site for the questions its buyers ask, with the competitors they cite instead. Sits alongside a free AI Visibility Audit, Prompt Panel Generator, AI Crawler Checker and llms.txt Generator from the same GEO agency.
 
 ## AI SEO Tools
 
