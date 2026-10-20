@@ -244,6 +244,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Person Schema Generator for Author Pages](https://bethwoodcock.neocities.org/tools/person-schema-generator) - Specifies what is needed for Person schema on Author pages.
 - [Case Study Schema Suite](https://bethwoodcock.neocities.org/tools/case-study-schema-generator) - Connects portfolio pages to individual case studies.
 - [Schemantra](https://schemantra.com) - Validates and monitors your structured data, alerting you when issues crop up.
+- [Uttily JSON-LD Generator](https://seo.uttily.com/json-ld-generator) - Free in-browser JSON-LD generator for Article, Product, FAQ, LocalBusiness and more.
 
 ## Page Speed and Core Web Vitals
 
