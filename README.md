@@ -70,6 +70,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free within Google Ads. The most authoritative source for volume data, though you get ranges rather than exact numbers unless you're running ads.
 - [Keywords Everywhere](https://keywordseverywhere.com) - Browser extension that overlays search volume, CPC, and competition data directly on Google, YouTube, and other platforms as you browse.
 - [Exploding Topics](https://explodingtopics.com) - Spots trending topics before they go mainstream. Good for finding keywords and content angles ahead of the competition.
+- [Superdemands](https://superdemands.com) - Five years of Google search interest for trending topics, with growth, momentum and seasonality. Useful for timing content around demand.
 - [Google Trends](https://trends.google.com) - Free tool for comparing keyword interest over time and across regions. Essential for seasonality and spotting emerging trends.
 - [Keyword Monkey](https://keywordmonkey.io) - AI powered keyword research that generates ideas, clusters them by topic, and pulls in search volume and difficulty. Useful for discovering long tail opportunities.
 
