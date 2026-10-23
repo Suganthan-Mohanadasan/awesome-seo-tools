@@ -83,6 +83,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [LowFruits](https://lowfruits.io) - Specialises in finding low competition keywords. Analyses SERPs in bulk to find weak spots and groups keywords using SERP overlap and semantic clustering. Now part of AIOSEO.
 - [Keyword Cupid](https://keywordcupid.com) - Visualises keyword relationships in a dendrogram by analysing real Google results. Helps you see which keywords share ranking intent and can be targeted together.
 - [CanniWizard](https://canniwizard.com/) - Automatically find cannibalization problems where multiple pages compete for the same keywords by linking your Google Search Console property.
+- [SEOcluster.ai](https://seocluster.ai/) - Clusters a site's own Google Search Console queries by intent and turns them into a page ownership plan (create, improve or merge), with click-share cannibalization scoring and content briefs. Read-only GSC access, free plan available.
 
 ## Content Optimisation and Writing
 
