@@ -72,6 +72,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Exploding Topics](https://explodingtopics.com) - Spots trending topics before they go mainstream. Good for finding keywords and content angles ahead of the competition.
 - [Google Trends](https://trends.google.com) - Free tool for comparing keyword interest over time and across regions. Essential for seasonality and spotting emerging trends.
 - [Keyword Monkey](https://keywordmonkey.io) - AI powered keyword research that generates ideas, clusters them by topic, and pulls in search volume and difficulty. Useful for discovering long tail opportunities.
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 ## Keyword Clustering and Topical Authority
 
