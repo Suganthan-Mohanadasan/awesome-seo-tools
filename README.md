@@ -232,6 +232,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Sistrix](https://www.sistrix.com) - Very popular in Europe. Single visibility score for any domain plus keyword analysis, backlink data, and SERP feature tracking.
 - [SEOClarity](https://www.seoclarity.net) - Enterprise platform with SERP analytics, rank tracking, and content optimisation. SXP is their feature built for tracking visibility in generative search environments.
 - [Authoritas](https://authoritas.com) - Specialises in SERP feature tracking and AI snippet analysis. Monitors how your content appears in featured snippets, PAA, local packs, and AI summaries across 100+ regions.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker with monthly visit estimates, traffic trends, source mix, and leaderboards of fast-growing sites. English and Chinese UI; hosted MCP for AI assistants.
 
 ## Schema Markup and Structured Data
 
