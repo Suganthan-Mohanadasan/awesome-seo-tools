@@ -119,6 +119,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEM Samurai](https://www.semsamurai.com/) - Bulk 301-redirect mapping for website migrations. SEM Samurai allows SEOs and developers to accurately match thousands of URLs in minutes to preserve link equity, reduce manual errors and save hours of manual work.
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source dynamic rendering engine that makes JavaScript content visible to Google, Bing, and AI bots like ChatGPT and Perplexity. Fixes indexing problems on React, Vue, and Angular sites without requiring code changes or SSR migration.
 - [JSBug](https://jsbug.org/) - Free tool for comparing how a webpage looks with and without JavaScript rendering. Shows what search engines and AI bots actually see on JavaScript-heavy sites.
+- [SEOCheck-AI](https://seocheck-ai.com/free-seo-check) - Free online technical SEO checker scanning public URLs across 60+ parameters: indexability, on-page structure, speed, security headers, and AI-search visibility with ranked recommendations.
 
 
 ## Rank Tracking
@@ -253,6 +254,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Open source, built into Chrome DevTools. Audits performance, accessibility, SEO, and best practices.
 - [CrUX Dashboard](https://developer.chrome.com/docs/crux/) - Real world performance data from Chrome users for millions of websites. Available via BigQuery and the CrUX API.
 - [DebugBear](https://www.debugbear.com) - Monitors Core Web Vitals over time with performance budgets and alerting.
+- [SEOAudit](https://seoaudit.com.ua/) - Fast online site auditing platform analyzing real-world Core Web Vitals (INP, LCP, CLS), rendering bottlenecks, and mobile performance benchmarks.
 
 ## SEO Browser Extensions
 
