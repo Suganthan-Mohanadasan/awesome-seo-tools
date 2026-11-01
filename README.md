@@ -175,6 +175,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Yext](https://www.yext.com) - Enterprise listings management. Syncs your business info across directories, maps, and voice assistants.
 - [Moz Local](https://moz.com/products/local) - Pushes your business data out to major directories and aggregators for consistent listings.
 - [myPresences](https://www.mypresences.com) - Manage your listings and reviews on 3000+ online services worldwide. Includes Listings, Reviews, Search, Google Business, AI Visibility and more in one plstform.
+- [GBP Category Finder](https://gmb-doneright.com/google-business-profile-categories) - Searchable reference of all 4,053 Google Business Profile categories with the GCID identifier Google uses for each one, grouped into 25 industries. No signup, no download, no email.
 
 ## LLM Visibility Tracking
 
