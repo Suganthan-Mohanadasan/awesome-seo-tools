@@ -109,6 +109,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Lumar (formerly DeepCrawl)](https://www.lumar.io) - Enterprise cloud based crawler for large sites. JavaScript rendering support and integrations with major analytics platforms.
 - [ContentKing (now part of Conductor)](https://www.contentkingapp.com) - Real time monitoring that continuously audits your site and alerts you the moment something changes or breaks.
 - [Oncrawl](https://www.oncrawl.com) - Combines crawl data with log file analysis and Search Console integration for advanced technical audits.
+- [Redirect Map Checker](https://zequnweb.com/tools/redirect-map-checker/) - Free redirect map validator for a pasted old-to-new plan (up to 2,000 rows), flagging loops, chains and conflicts, for pre-launch checking only.
 - [Ryte](https://ryte.com) - Website quality management covering technical auditing, content optimisation, and search performance monitoring.
 - [Siteliner](https://www.siteliner.com) - Free tool for spotting duplicate content, broken links, and page power distribution across your site.
 - [LittleWarden](https://littlewarden.com) - Keeps an eye on broken links, SSL certificates, domain expiry, and other technical issues. Fires off alerts when something needs fixing before it tanks your SEO.
