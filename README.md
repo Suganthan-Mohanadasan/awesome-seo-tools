@@ -178,7 +178,6 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 
 ## LLM Visibility Tracking
 
-- [AI Brand Tracking](https://aibrandtracking.com) - Tracks brand visibility across ChatGPT, Gemini, Perplexity, and Google AI Overviews and AI Mode. Monitors the exact prompts driving AI recommendations, and discovers which websites AI engines cite for your industry. Auto-suggests competitors and queries with multi-market and multi-language support.
 - [Decipher](https://deciphercms.com) - Analyzes your website when you sign up and creates an easy-to-understand topical authority map, with content automatically internally linked and ready to generate at the click of a button.
 - [Otterly AI](https://otterly.ai) - Tracks brand visibility across Google AI Overviews, ChatGPT, Perplexity, Gemini, and Copilot. Daily monitoring, brand visibility index, share of voice, and deep GEO audits. 20,000+ marketing professionals use it.
 - [Profound](https://profound.co) - Enterprise GEO platform with $35M backing from Sequoia Capital. Tracks brand presence across 10+ AI platforms with citation analysis and dedicated AI strategists. SOC 2 and HIPAA compliant.
@@ -193,6 +192,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Query Fan Out](https://aicoverage.locomotive.agency) - By Locomotive Agency. Analyses how AI search engines reformulate queries and measures your brand's coverage across AI generated responses.
 - [Waikay](https://waikay.io) - Stands for "What AI Knows About You", built by Dixon Jones (co founder of InLinks). Analyses how ChatGPT, Gemini, Claude, and Perplexity perceive your brand. Detects hallucinations and knowledge gaps, then generates GEO plans. Entity based analysis with fact verification across multiple LLMs.
 - [RadarKit](https://radarkit.ai) - Monitors brand visibility across ChatGPT, Gemini, Perplexity, Copilot, and Google AI Overviews using real browser prompting rather than APIs. Has an AI SEO Chrome extension for auditing pages through the eyes of AI crawlers, plus llms.txt generation.
+- [Vercite](https://vercite.io) - Tracks how ChatGPT, Gemini, Perplexity, Google AI Overviews and AI Mode mention and cite your brand. Prompt tracking, citation source discovery, sentiment, and competitor benchmarks, with recommendations to improve AI visibility. Multi-market and multi-language. Formerly AI Brand Tracking.
 
 ## AI SEO Tools
 
