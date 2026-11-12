@@ -72,6 +72,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Exploding Topics](https://explodingtopics.com) - Spots trending topics before they go mainstream. Good for finding keywords and content angles ahead of the competition.
 - [Google Trends](https://trends.google.com) - Free tool for comparing keyword interest over time and across regions. Essential for seasonality and spotting emerging trends.
 - [Keyword Monkey](https://keywordmonkey.io) - AI powered keyword research that generates ideas, clusters them by topic, and pulls in search volume and difficulty. Useful for discovering long tail opportunities.
+- [KissMyPost](https://kissmypost.com) - Reddit-side topic research: which subreddits discuss a topic, how large they are and when they are active. Useful for content angles and community-led keywords.
 
 ## Keyword Clustering and Topical Authority
 
