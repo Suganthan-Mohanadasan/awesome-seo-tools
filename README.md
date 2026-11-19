@@ -72,6 +72,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Exploding Topics](https://explodingtopics.com) - Spots trending topics before they go mainstream. Good for finding keywords and content angles ahead of the competition.
 - [Google Trends](https://trends.google.com) - Free tool for comparing keyword interest over time and across regions. Essential for seasonality and spotting emerging trends.
 - [Keyword Monkey](https://keywordmonkey.io) - AI powered keyword research that generates ideas, clusters them by topic, and pulls in search volume and difficulty. Useful for discovering long tail opportunities.
+- [Keyword Race](https://keywordrace.com) - App Store keyword research for indie iOS developers: see which apps compete for a keyword and where your app ranks. Popularity is estimated from Apple's own search suggestions. Free check without an account; paid is a one-time lifetime payment.
 
 ## Keyword Clustering and Topical Authority
 
