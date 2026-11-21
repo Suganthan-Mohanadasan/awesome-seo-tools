@@ -175,6 +175,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Yext](https://www.yext.com) - Enterprise listings management. Syncs your business info across directories, maps, and voice assistants.
 - [Moz Local](https://moz.com/products/local) - Pushes your business data out to major directories and aggregators for consistent listings.
 - [myPresences](https://www.mypresences.com) - Manage your listings and reviews on 3000+ online services worldwide. Includes Listings, Reviews, Search, Google Business, AI Visibility and more in one plstform.
+- [SupaSEO](https://supaseo.dev) - Local SEO and AI citation tracker. Tracks Google Maps and organic rankings plus AI citations, audits pages, and produces client-ready evidence reports. Runs on your own provider keys at a one-time price.
 
 ## LLM Visibility Tracking
 
