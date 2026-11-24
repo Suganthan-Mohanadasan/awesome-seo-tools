@@ -72,6 +72,9 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Exploding Topics](https://explodingtopics.com) - Spots trending topics before they go mainstream. Good for finding keywords and content angles ahead of the competition.
 - [Google Trends](https://trends.google.com) - Free tool for comparing keyword interest over time and across regions. Essential for seasonality and spotting emerging trends.
 - [Keyword Monkey](https://keywordmonkey.io) - AI powered keyword research that generates ideas, clusters them by topic, and pulls in search volume and difficulty. Useful for discovering long tail opportunities.
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
 
 ## Keyword Clustering and Topical Authority
 
