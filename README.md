@@ -244,7 +244,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Person Schema Generator for Author Pages](https://bethwoodcock.neocities.org/tools/person-schema-generator) - Specifies what is needed for Person schema on Author pages.
 - [Case Study Schema Suite](https://bethwoodcock.neocities.org/tools/case-study-schema-generator) - Connects portfolio pages to individual case studies.
 - [Schemantra](https://schemantra.com) - Validates and monitors your structured data, alerting you when issues crop up.
-- [CiteReady Schema & /llms.txt Builder](https://citeready-checker.appwrite.network/schema-builder) - Free no-signup Schema.org JSON-LD @graph builder and AI search auditor that inspects live pages for missing Organization, SoftwareApplication, and FAQPage entities, validates /llms.txt, and checks 10 AI search crawlers.
+- [CiteReady Schema & /llms.txt Builder](https://cite.shipbastion.com/schema-builder) - Free no-signup Schema.org JSON-LD @graph builder and AI search auditor that inspects live pages for missing Organization, SoftwareApplication, and FAQPage entities, validates /llms.txt, and checks 10 AI search crawlers.
 
 ## Page Speed and Core Web Vitals
 
