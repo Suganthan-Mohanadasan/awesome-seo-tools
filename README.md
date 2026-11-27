@@ -99,6 +99,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [KoalaWriter](https://koala.sh/writer) - AI SEO writing tool that generates long form articles in one click. Pulls real time SERP data, suggests internal links, and publishes directly to WordPress.
 - [Penfriend AI](https://penfriend.ai) - The Echo feature learns your writing style and tone, then generates SEO optimised drafts that match your brand voice. Built in keyword targeting and content brief integration.
 - [Leaps](https://leapshq.com) - "Anti-AI slop" long form writing tool that doesn't write a word until it first understands your POV for each part of your content and has done research + fact-checking to back your points.
+- [The SEO Agent](https://www.theseoagent.ai) - End-to-end AI SEO content platform covering keyword research, cited article drafts, automated claim verification, and direct CMS publishing to WordPress, Webflow, Shopify, Wix, Ghost, and Framer.
 
 
 ## Technical SEO and Site Auditing
@@ -192,6 +193,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [Query Fan Out](https://aicoverage.locomotive.agency) - By Locomotive Agency. Analyses how AI search engines reformulate queries and measures your brand's coverage across AI generated responses.
 - [Waikay](https://waikay.io) - Stands for "What AI Knows About You", built by Dixon Jones (co founder of InLinks). Analyses how ChatGPT, Gemini, Claude, and Perplexity perceive your brand. Detects hallucinations and knowledge gaps, then generates GEO plans. Entity based analysis with fact verification across multiple LLMs.
 - [RadarKit](https://radarkit.ai) - Monitors brand visibility across ChatGPT, Gemini, Perplexity, Copilot, and Google AI Overviews using real browser prompting rather than APIs. Has an AI SEO Chrome extension for auditing pages through the eyes of AI crawlers, plus llms.txt generation.
+- [AI Prompt Tracking](https://aiprompttracking.com) - Free tool to check and track how AI search engines mention and cite your brand across target buyer prompts.
 
 ## AI SEO Tools
 
